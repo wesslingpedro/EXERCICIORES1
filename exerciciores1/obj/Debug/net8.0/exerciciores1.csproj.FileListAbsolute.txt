@@ -1,0 +1,14 @@
+D:\CURSO C# UDEMY\EntradaDeDados\exerciciores1\exerciciores1\bin\Debug\net8.0\exerciciores1.exe
+D:\CURSO C# UDEMY\EntradaDeDados\exerciciores1\exerciciores1\bin\Debug\net8.0\exerciciores1.deps.json
+D:\CURSO C# UDEMY\EntradaDeDados\exerciciores1\exerciciores1\bin\Debug\net8.0\exerciciores1.runtimeconfig.json
+D:\CURSO C# UDEMY\EntradaDeDados\exerciciores1\exerciciores1\bin\Debug\net8.0\exerciciores1.dll
+D:\CURSO C# UDEMY\EntradaDeDados\exerciciores1\exerciciores1\bin\Debug\net8.0\exerciciores1.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\exerciciores1\exerciciores1\obj\Debug\net8.0\exerciciores1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C# UDEMY\EntradaDeDados\exerciciores1\exerciciores1\obj\Debug\net8.0\exerciciores1.AssemblyInfoInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\exerciciores1\exerciciores1\obj\Debug\net8.0\exerciciores1.AssemblyInfo.cs
+D:\CURSO C# UDEMY\EntradaDeDados\exerciciores1\exerciciores1\obj\Debug\net8.0\exerciciores1.csproj.CoreCompileInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\exerciciores1\exerciciores1\obj\Debug\net8.0\exerciciores1.dll
+D:\CURSO C# UDEMY\EntradaDeDados\exerciciores1\exerciciores1\obj\Debug\net8.0\refint\exerciciores1.dll
+D:\CURSO C# UDEMY\EntradaDeDados\exerciciores1\exerciciores1\obj\Debug\net8.0\exerciciores1.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\exerciciores1\exerciciores1\obj\Debug\net8.0\exerciciores1.genruntimeconfig.cache
+D:\CURSO C# UDEMY\EntradaDeDados\exerciciores1\exerciciores1\obj\Debug\net8.0\ref\exerciciores1.dll
